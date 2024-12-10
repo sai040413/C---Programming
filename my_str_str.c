@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+
 int i, j, k;
 int flag = 0;
 char *my_strstr(char *str, char *sub)
